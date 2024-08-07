@@ -19,9 +19,9 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/samonzeweb/godb v1.0.15
 	github.com/upper/db/v4 v4.6.0
-	github.com/uptrace/bun v1.1.14
+	github.com/uptrace/bun v1.2.1
 	github.com/uptrace/bun/dialect/pgdialect v1.1.14
-	github.com/uptrace/bun/driver/pgdriver v1.1.14
+	github.com/uptrace/bun/driver/pgdriver v1.2.1
 	github.com/volatiletech/sqlboiler/v4 v4.14.2
 	github.com/volatiletech/strmangle v0.0.5
 	gopkg.in/gorp.v1 v1.7.2
@@ -79,7 +79,7 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/luna-duclos/instrumentedsql v1.1.3 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
-	github.com/mattn/go-isatty v0.0.19 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
 	github.com/microcosm-cc/bluemonday v1.0.25 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
@@ -98,17 +98,17 @@ require (
 	github.com/syndtr/goleveldb v1.0.0 // indirect
 	github.com/tmthrgd/go-hex v0.0.0-20190904060850-447a3041c3bc // indirect
 	github.com/vmihailenco/bufpool v0.1.11 // indirect
-	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
+	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser v0.1.2 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/volatiletech/inflect v0.0.1 // indirect
 	github.com/zclconf/go-cty v1.13.2 // indirect
-	golang.org/x/crypto v0.11.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.11.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
